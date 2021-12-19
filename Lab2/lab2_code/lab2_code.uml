@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="2709.0" y="382.0">com</node>
+    <node x="1567.0" y="382.0">netscape</node>
+    <node x="2139.0" y="0.0">PlayNice</node>
+    <node x="495.0" y="512.701171875">ru</node>
+    <node x="297.0" y="11.0">ArmThrust</node>
+    <node x="1658.0" y="0.0">SwordsDance</node>
+    <node x="997.0" y="382.0">toolbarButtonGraphics</node>
+    <node x="0.0" y="512.701171875">sun</node>
+    <node x="1305.0" y="169.0">OricorioPomPom</node>
+    <node x="1306.0" y="382.0">groovyjarjarasm</node>
+    <node x="454.0" y="0.0">DoubleTeam</node>
+    <node x="2536.0" y="382.0">java</node>
+    <node x="0.0" y="0.0">StoneEdge</node>
+    <node x="2355.0" y="382.0">javax</node>
+    <node x="2381.0" y="0.0">SweetScent</node>
+    <node x="1416.0" y="0.0">FeatherDance</node>
+    <node x="693.0" y="0.0">Swagger</node>
+    <node x="40.0" y="397.701171875">groovyjarjarpicocli</node>
+    <node x="2430.655701754386" y="169.0">Steenee</node>
+    <node x="2623.0" y="0.0">EnergyBall</node>
+    <node x="1174.0" y="0.0">Hurricane</node>
+    <node x="1977.0" y="382.0">images</node>
+    <node x="538.5723684210526" y="169.0">Makuhita</node>
+    <node x="165.0" y="512.701171875">org</node>
+    <node x="2116.484649122807" y="169.0">Tsareena</node>
+    <node x="935.0" y="0.0">CalmMind</node>
+    <node x="2665.6666666666665" y="169.0">Bounsweet</node>
+    <node x="1772.0" y="382.0">META-INF</node>
+    <node x="330.0" y="512.701171875">jdk</node>
+    <node x="2166.0" y="382.0">groovy</node>
+    <node x="277.280701754386" y="169.0">Hariyama</node>
+    <node x="1897.0" y="0.0">Stomp</node>
+    <node x="680.0" y="382.0">groovyjarjarcommonscli</node>
+    <node x="373.0" y="387.701171875">groovyjarjarantlr</node>
+    <node x="1687.25" y="283.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Hariyama" target="ArmThrust">
+      <point x="-20.25" y="-27.0" />
+      <point x="338.030701754386" y="149.0" />
+      <point x="331.25" y="149.0" />
+      <point x="-34.25" y="38.5" />
+    </edge>
+    <edge source="Tsareena" target="Stomp">
+      <point x="-59.25" y="-27.0" />
+      <point x="2136.234649122807" y="149.0" />
+      <point x="2008.0" y="149.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="Main" target="Makuhita">
+      <point x="-37.5" y="-27.0" />
+      <point x="1724.75" y="253.0" />
+      <point x="618.5723684210526" y="253.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Makuhita" target="ArmThrust">
+      <point x="-53.333333333333485" y="-27.0" />
+      <point x="565.2390350877191" y="119.0" />
+      <point x="399.75" y="119.0" />
+      <point x="34.25" y="38.5" />
+    </edge>
+    <edge source="Steenee" target="SweetScent">
+      <point x="0.0" y="-27.0" />
+      <point x="2507.155701754386" y="129.0" />
+      <point x="2492.0" y="129.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="OricorioPomPom" target="CalmMind">
+      <point x="-75.75" y="-27.0" />
+      <point x="1330.25" y="149.0" />
+      <point x="1044.5" y="149.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="Makuhita" target="DoubleTeam">
+      <point x="0.0" y="-27.0" />
+      <point x="54.75" y="49.5" />
+    </edge>
+    <edge source="Main" target="Steenee">
+      <point x="37.5" y="-27.0" />
+      <point x="1799.75" y="253.0" />
+      <point x="2507.155701754386" y="253.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Steenee" target="EnergyBall">
+      <point x="51.0" y="-27.0" />
+      <point x="2558.155701754386" y="149.0" />
+      <point x="2734.0" y="149.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+      <point x="68.0" y="15.0" />
+      <point x="884.0" y="442.0" />
+      <point x="650.0" y="442.0" />
+      <point x="650.0" y="389.5" />
+      <point x="-136.0" y="-7.5" />
+    </edge>
+    <edge source="Hariyama" target="DoubleTeam">
+      <point x="20.25" y="-27.0" />
+      <point x="378.530701754386" y="129.0" />
+      <point x="508.75" y="129.0" />
+      <point x="-54.75" y="49.5" />
+    </edge>
+    <edge source="Bounsweet" target="EnergyBall">
+      <point x="42.0" y="-27.0" />
+      <point x="2791.6666666666665" y="149.0" />
+      <point x="2808.0" y="149.0" />
+      <point x="74.0" y="49.5" />
+    </edge>
+    <edge source="Main" target="Tsareena">
+      <point x="12.5" y="-27.0" />
+      <point x="1774.75" y="243.0" />
+      <point x="2195.484649122807" y="243.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Main" target="Bounsweet">
+      <point x="62.5" y="-27.0" />
+      <point x="1824.75" y="263.0" />
+      <point x="2749.6666666666665" y="263.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="OricorioPomPom" target="SwordsDance">
+      <point x="75.75" y="-27.0" />
+      <point x="1481.75" y="149.0" />
+      <point x="1767.5" y="149.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="Hariyama" target="Swagger">
+      <point x="60.75" y="-27.0" />
+      <point x="419.030701754386" y="139.0" />
+      <point x="748.5" y="139.0" />
+      <point x="-55.5" y="49.5" />
+    </edge>
+    <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+      <point x="77.33333333333331" y="15.0" />
+      <point x="566.3333333333333" y="457.701171875" />
+      <point x="333.0" y="457.701171875" />
+      <point x="333.0" y="392.701171875" />
+      <point x="-116.0" y="-10.0" />
+    </edge>
+    <edge source="Steenee" target="PlayNice">
+      <point x="-51.0" y="-27.0" />
+      <point x="2456.155701754386" y="119.0" />
+      <point x="2305.5" y="119.0" />
+      <point x="55.5" y="49.5" />
+    </edge>
+    <edge source="OricorioPomPom" target="Hurricane">
+      <point x="-25.25" y="-27.0" />
+      <point x="1380.75" y="139.0" />
+      <point x="1285.0" y="139.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="Bounsweet" target="SweetScent">
+      <point x="-42.0" y="-27.0" />
+      <point x="2707.6666666666665" y="129.0" />
+      <point x="2566.0" y="129.0" />
+      <point x="74.0" y="49.5" />
+    </edge>
+    <edge source="OricorioPomPom" target="FeatherDance">
+      <point x="25.25" y="-27.0" />
+      <point x="1431.25" y="139.0" />
+      <point x="1527.0" y="139.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="groovyjarjarpicocli" target="groovyjarjarpicocli">
+      <point x="82.66666666666669" y="15.0" />
+      <point x="246.66666666666669" y="467.701171875" />
+      <point x="0.0" y="467.701171875" />
+      <point x="0.0" y="402.701171875" />
+      <point x="-124.0" y="-10.0" />
+    </edge>
+    <edge source="Makuhita" target="Swagger">
+      <point x="53.333333333333485" y="-27.0" />
+      <point x="671.9057017543861" y="149.0" />
+      <point x="859.5" y="149.0" />
+      <point x="55.5" y="49.5" />
+    </edge>
+    <edge source="Tsareena" target="SweetScent">
+      <point x="19.75" y="-27.0" />
+      <point x="2215.234649122807" y="129.0" />
+      <point x="2418.0" y="129.0" />
+      <point x="-74.0" y="49.5" />
+    </edge>
+    <edge source="Main" target="Hariyama">
+      <point x="-62.5" y="-27.0" />
+      <point x="1699.75" y="263.0" />
+      <point x="358.280701754386" y="263.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Hariyama" target="StoneEdge">
+      <point x="-60.75" y="-27.0" />
+      <point x="297.530701754386" y="149.0" />
+      <point x="138.5" y="149.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="Main" target="OricorioPomPom">
+      <point x="-12.5" y="-27.0" />
+      <point x="1749.75" y="243.0" />
+      <point x="1406.0" y="243.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Tsareena" target="PlayNice">
+      <point x="-19.75" y="-27.0" />
+      <point x="2175.734649122807" y="149.0" />
+      <point x="2194.5" y="149.0" />
+      <point x="-55.5" y="49.5" />
+    </edge>
+    <edge source="Tsareena" target="EnergyBall">
+      <point x="59.25" y="-27.0" />
+      <point x="2254.734649122807" y="139.0" />
+      <point x="2660.0" y="139.0" />
+      <point x="-74.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.45410122164048866" x="1422.5" y="271.5" />
+  <SelectedNodes>
+    <node>com</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

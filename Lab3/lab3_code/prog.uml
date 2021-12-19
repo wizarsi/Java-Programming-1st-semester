@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prog</OriginalElement>
+  <nodes>
+    <node x="227.75000000000006" y="909.0">prog.They</node>
+    <node x="732.3333333333333" y="238.0">prog.Person</node>
+    <node x="251.20833333333326" y="717.0">prog.TheyInterface</node>
+    <node x="634.7083333333333" y="639.0">prog.Color</node>
+    <node x="1231.5889254385963" y="931.0">prog.Vase</node>
+    <node x="1298.880592105263" y="293.5">prog.Flower</node>
+    <node x="153.20833333333326" y="0.0">prog.Location</node>
+    <node x="965.5450657894737" y="705.5">prog.Thing</node>
+    <node x="47.75" y="965.0">prog.TimeManager</node>
+    <node x="574.988157894737" y="1208.0">prog.Main</node>
+    <node x="506.20833333333326" y="942.5">prog.Gun</node>
+    <node x="10.5" y="650.0">prog.Time</node>
+    <node x="464.20833333333326" y="706.0">prog.GunInterface</node>
+    <node x="682.7083333333333" y="931.0">prog.Cup</node>
+    <node x="905.7083333333333" y="942.5">prog.Dask</node>
+    <node x="1205.5089912280703" y="717.0">prog.Utils</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prog.Main" target="prog.Gun">
+      <point x="-14.0625" y="-27.0" />
+      <point x="635.925657894737" y="1128.0" />
+      <point x="542.9583333333333" y="1128.0" />
+      <point x="-36.75" y="61.0" />
+    </edge>
+    <edge source="prog.Main" target="prog.Dask">
+      <point x="32.8125" y="-27.0" />
+      <point x="682.800657894737" y="1148.0" />
+      <point x="961.9583333333333" y="1148.0" />
+      <point x="-56.25" y="61.0" />
+    </edge>
+    <edge source="prog.TheyInterface" target="prog.Person">
+      <point x="0.0" y="-27.0" />
+      <point x="347.20833333333326" y="579.0" />
+      <point x="743.7333333333332" y="579.0" />
+      <point x="-102.60000000000002" y="160.5" />
+    </edge>
+    <edge source="prog.GunInterface" target="prog.Person">
+      <point x="0.0" y="-38.0" />
+      <point x="537.7083333333333" y="599.0" />
+      <point x="789.3333333333333" y="599.0" />
+      <point x="-57.0" y="160.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Cup">
+      <point x="14.0625" y="-27.0" />
+      <point x="664.050657894737" y="1128.0" />
+      <point x="783.7083333333333" y="1128.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="prog.They" target="prog.Location">
+      <point x="-72.0" y="-94.5" />
+      <point x="251.75000000000006" y="889.0" />
+      <point x="199.07149122807022" y="889.0" />
+      <point x="199.07149122807022" y="218.0" />
+      <point x="205.70833333333326" y="218.0" />
+      <point x="-35.0" y="94.0" />
+    </edge>
+    <edge source="prog.Person" target="prog.Location">
+      <point x="-57.0" y="-160.5" />
+      <point x="789.3333333333333" y="218.0" />
+      <point x="275.70833333333326" y="218.0" />
+      <point x="35.0" y="94.0" />
+    </edge>
+    <edge source="prog.Main" target="prog.They">
+      <point x="-32.8125" y="-27.0" />
+      <point x="617.175657894737" y="1148.0" />
+      <point x="275.75000000000006" y="1148.0" />
+      <point x="-48.0" y="94.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Person">
+      <point x="60.9375" y="-27.0" />
+      <point x="710.925657894737" y="1178.0" />
+      <point x="1178.0450657894737" y="1178.0" />
+      <point x="1178.0450657894737" y="589.0" />
+      <point x="926.1333333333333" y="589.0" />
+      <point x="79.80000000000007" y="160.5" />
+    </edge>
+    <edge source="prog.Vase" target="prog.Person">
+      <point x="-50.5" y="-72.5" />
+      <point x="1282.0889254385963" y="869.0" />
+      <point x="1195.0089912280703" y="869.0" />
+      <point x="1195.0089912280703" y="579.0" />
+      <point x="948.9333333333334" y="579.0" />
+      <point x="102.60000000000014" y="160.5" />
+    </edge>
+    <edge source="prog.Cup" target="prog.Thing">
+      <point x="75.75" y="-72.5" />
+      <point x="859.4583333333333" y="889.0" />
+      <point x="982.3783991228072" y="889.0" />
+      <point x="-84.16666666666663" y="38.5" />
+    </edge>
+    <edge source="prog.Thing" target="prog.Person">
+      <point x="0.0" y="-38.5" />
+      <point x="1066.5450657894737" y="599.0" />
+      <point x="903.3333333333333" y="599.0" />
+      <point x="57.0" y="160.5" />
+    </edge>
+    <edge source="prog.Dask" target="prog.Person">
+      <point x="-84.37500000000006" y="-61.0" />
+      <point x="933.8333333333333" y="879.0" />
+      <point x="949.5714912280703" y="879.0" />
+      <point x="949.5714912280703" y="609.0" />
+      <point x="880.5333333333333" y="609.0" />
+      <point x="34.200000000000045" y="160.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Thing">
+      <point x="51.5625" y="-27.0" />
+      <point x="701.550657894737" y="1168.0" />
+      <point x="1164.5416666666665" y="1168.0" />
+      <point x="1164.5416666666665" y="889.0" />
+      <point x="1117.0450657894737" y="889.0" />
+      <point x="50.5" y="38.5" />
+    </edge>
+    <edge source="prog.Gun" target="prog.Person">
+      <point x="36.75" y="-61.0" />
+      <point x="616.4583333333333" y="889.0" />
+      <point x="621.7083333333333" y="889.0" />
+      <point x="621.7083333333333" y="609.0" />
+      <point x="812.1333333333332" y="609.0" />
+      <point x="-34.200000000000045" y="160.5" />
+    </edge>
+    <edge source="prog.Cup" target="prog.Person">
+      <point x="25.25" y="-72.5" />
+      <point x="808.9583333333333" y="889.0" />
+      <point x="803.2083333333333" y="889.0" />
+      <point x="803.2083333333333" y="619.0" />
+      <point x="834.9333333333333" y="619.0" />
+      <point x="-11.399999999999977" y="160.5" />
+    </edge>
+    <edge source="prog.Cup" target="prog.Color">
+      <point x="-75.75" y="-72.5" />
+      <point x="707.9583333333333" y="889.0" />
+      <point x="713.7083333333333" y="889.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="prog.Main" target="prog.TimeManager">
+      <point x="-51.5625" y="-27.0" />
+      <point x="598.425657894737" y="1168.0" />
+      <point x="87.75" y="1168.0" />
+      <point x="-40.0" y="38.5" />
+    </edge>
+    <edge source="prog.Vase" target="prog.Thing">
+      <point x="-84.16666666666666" y="-72.5" />
+      <point x="1248.4222587719296" y="879.0" />
+      <point x="1150.7117324561405" y="879.0" />
+      <point x="84.16666666666663" y="38.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Vase">
+      <point x="70.3125" y="-27.0" />
+      <point x="720.300657894737" y="1188.0" />
+      <point x="1332.5889254385963" y="1188.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="prog.Vase" target="prog.Utils">
+      <point x="-16.833333333333343" y="-72.5" />
+      <point x="1315.755592105263" y="889.0" />
+      <point x="1302.5089912280703" y="889.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="prog.TimeManager" target="prog.Time">
+      <point x="-40.0" y="-38.5" />
+      <point x="0.0" y="94.0" />
+    </edge>
+    <edge source="prog.They" target="prog.TheyInterface">
+      <point x="24.0" y="-94.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="prog.Gun" target="prog.GunInterface">
+      <point x="-36.75" y="-61.0" />
+      <point x="542.9583333333333" y="889.0" />
+      <point x="537.7083333333333" y="889.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="prog.Dask" target="prog.Thing">
+      <point x="28.124999999999943" y="-61.0" />
+      <point x="1046.3333333333333" y="889.0" />
+      <point x="1049.7117324561405" y="889.0" />
+      <point x="-16.833333333333314" y="38.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Color">
+      <point x="4.6875" y="-27.0" />
+      <point x="654.675657894737" y="1118.0" />
+      <point x="663.7083333333333" y="1118.0" />
+      <point x="663.7083333333333" y="889.0" />
+      <point x="661.0416666666666" y="889.0" />
+      <point x="-52.66666666666663" y="105.0" />
+    </edge>
+    <edge source="prog.They" target="prog.Person">
+      <point x="72.0" y="-94.5" />
+      <point x="395.75000000000006" y="889.0" />
+      <point x="453.70833333333326" y="889.0" />
+      <point x="453.70833333333326" y="589.0" />
+      <point x="766.5333333333333" y="589.0" />
+      <point x="-79.79999999999995" y="160.5" />
+    </edge>
+    <edge source="prog.Main" target="prog.Time">
+      <point x="-60.9375" y="-27.0" />
+      <point x="589.050657894737" y="1178.0" />
+      <point x="22.9375" y="1178.0" />
+      <point x="22.9375" y="889.0" />
+      <point x="36.5" y="889.0" />
+      <point x="-52.0" y="94.0" />
+    </edge>
+    <edge source="prog.Utils" target="prog.Flower">
+      <point x="0.0" y="-27.0" />
+      <point x="1302.5089912280703" y="619.0" />
+      <point x="1319.505592105263" y="619.0" />
+      <point x="-61.875" y="105.0" />
+    </edge>
+    <edge source="prog.Vase" target="prog.Flower">
+      <point x="50.5" y="-72.5" />
+      <point x="1383.0889254385963" y="879.0" />
+      <point x="1421.0089912280703" y="879.0" />
+      <point x="1421.0089912280703" y="609.0" />
+      <point x="1402.005592105263" y="609.0" />
+      <point x="20.625" y="105.0" />
+    </edge>
+    <edge source="prog.Main" target="prog.Location">
+      <point x="-70.3125" y="-27.0" />
+      <point x="579.675657894737" y="1188.0" />
+      <point x="0.0" y="1188.0" />
+      <point x="0.0" y="218.0" />
+      <point x="170.70833333333326" y="218.0" />
+      <point x="-70.0" y="94.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5267295597484277" x="747.5" y="625.9999999999999" />
+  <SelectedNodes>
+    <node>prog.TheyInterface</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,11 @@
+javac -classpath Pokemon.jar Main.java
+jar cfe ugu.jar Main Main.class
+java -classpath Pokemon.jar:ugu.jar Main
+Bounsweet.java Hariyama.java Main.java Makuhita.java Moves.java OricorioPomPom.java Steenee.java Tsareena.java
+ArmThrust.class Bounsweet.class CalmMind.class DoubleTeam.class EnergyBall.class FeatherDance.class Hariyama.class Hurricane.class Main.class Makuhita.class OricorioPomPom.class PlayNice.class Steenee.class Stomp.class StoneEdge.class Swagger.class SweetScent.class SwordsDance.class Tsareena.class Pokemon.jar
+
+mkdir o
+cd o
+unzip -uo ../ugu.jar
+unzip -uo ../Pokemon.jar
+jar cfe combined.jar o.Main o

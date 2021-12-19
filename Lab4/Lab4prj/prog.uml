@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prog</OriginalElement>
+  <nodes>
+    <node x="274.0" y="80.0">prog.They</node>
+    <node x="0.0" y="225.0">prog.Person</node>
+    <node x="261.0" y="0.0">prog.TheyInterface</node>
+    <node x="171.0" y="225.0">prog.AmountException</node>
+    <node x="141.0" y="465.0">prog.Color</node>
+    <node x="112.0" y="104.0">prog.Vase</node>
+    <node x="0.0" y="465.0">prog.Flower</node>
+    <node x="386.0" y="390.0">prog.They.Consent</node>
+    <node x="229.0" y="390.0">prog.Location</node>
+    <node x="0.0" y="390.0">prog.LocationException</node>
+    <node x="59.0" y="0.0">prog.Thing</node>
+    <node x="384.0" y="225.0">prog.TimeManager</node>
+    <node x="407.0" y="465.0">prog.Main</node>
+    <node x="486.0" y="80.0">prog.Gun</node>
+    <node x="458.0" y="0.0">prog.GunInterface</node>
+    <node x="532.0" y="465.0">prog.Time</node>
+    <node x="0.0" y="540.0">prog.Dask</node>
+    <node x="0.0" y="115.0">prog.Cup</node>
+    <node x="274.0" y="465.0">prog.Utils</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prog.They" target="prog.TheyInterface">
+      <point x="0.0" y="-49.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="prog.Gun" target="prog.GunInterface">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="prog.Cup" target="prog.Thing">
+      <point x="0.0" y="-27.0" />
+      <point x="46.0" y="79.0" />
+      <point x="82.0" y="79.0" />
+      <point x="-23.0" y="27.0" />
+    </edge>
+    <edge source="prog.Vase" target="prog.Thing">
+      <point x="0.0" y="-38.0" />
+      <point x="164.0" y="79.0" />
+      <point x="128.0" y="79.0" />
+      <point x="23.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.2810065907729179" x="850.5" y="824.5" />
+  <SelectedNodes>
+    <node>prog.They.Consent</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
